@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+.navbar a{
+    color: rgb(241, 46, 46);
+}ss
+.mat-toolbar.mat-primary{
+    background:rgb(209, 231, 85);
+    color: rgb(67, 64, 228);
+    
+}
+.spacer{
+    flex: 1 1 auto;
+    
+}
+

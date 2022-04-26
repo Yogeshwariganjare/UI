@@ -1,0 +1,13 @@
+.full-width{
+    width: 100%;
+}
+h3{
+    text-align: center;
+    font-size: x-large;
+    font-family: fantasy;
+    padding-top: 1%;
+}
+.body{
+    background-color: rgb(243, 164, 164);
+}
+
